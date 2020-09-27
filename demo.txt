@@ -1,0 +1,1 @@
+Hi, This is demo script. It converts text documet to speech using google text to speech API.
